@@ -1,12 +1,3 @@
-# Detailed File Descriptions
-
-These descriptions are written to be detailed enough that another LLM,
-given only the description, could regenerate a functionally equivalent
-version of each file (correct package, class signature, fields, method
-signatures, and behavior) without seeing the original source.
-
----
-
 ## small/CustomDatatypeUtilTest.java
 
 - **Package:** `org.openmrs.customdatatype`
